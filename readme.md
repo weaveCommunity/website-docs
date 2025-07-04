@@ -4,16 +4,17 @@ Author: Jacob Boes
 Date: 2025-07-01
 
 ## Outline
-- Static page hosting on GitHub - How and Why
-- Templating using Hugo - What the basic file structure means
-- A brief introduction to Markdown Script
-- Forking (Copying) your own repository
-- How to update the calendar
-- How to add a project page
-- How to add an untempled page
-- Using GitHub's version control as a tool for learning
+- [Static page hosting on GitHub: How and Why](#static-page-hosting-on-github-how-and-why)
+- [Templating using Hugo - What the basic file structure means](#templating-using-hugo---what-the-basic-file-structure-means)
+- [A brief introduction to Markdown Script](#a-brief-introduction-to-markdown-script)
+- [Forking (Copying) your own repository](#forking-copying-your-own-repository)
+- [How to update the calendar](#how-to-update-the-calendar)
+- [How to add a project page](#how-to-add-a-project-page)
+- [How to add an untempled page](#how-to-add-an-untempled-page)
+- [Using GitHub's version control as a tool for learning](#using-githubs-version-control-as-a-tool-for-learning)
 
-## Static page hosting on GitHub - How and Why
+
+## Static page hosting on GitHub: How and Why
 Weave transitioned from a dynamic webpage engine ([WordPress](https://wordpress.com)) to a static page produced using the [HUGO](https://gohugo.io) templating framework and hosted on [GitHub Pages](https://pages.github.com).
 
 The Soil Factory and Weave Community web pages are currently hosted [weaveCommunity GitHub Organization](https://github.com/weaveCommunity). [GitHub Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) allow for management for GitHub repositories by multiple GitHub users at once. You can also host a page on a personal GitHub account, which you can sign up for [here](https://github.com/). We will be using both, so make sure you have your own account.
